@@ -4,6 +4,7 @@ Melomaniac est un jeu très simple d'utilisation permettant de tester votre cult
 Pour jouer à Melomaniac, téléchargez le dossier complet du jeu
 Un unique module externe est nécessaire : pygame
 >pip install pygame
+
 Vous n'avez plus qu'à ouvrir le jeu et profiter de la partie !
 >Melomaniac.py
 ## Comment Jouer ?
