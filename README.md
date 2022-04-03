@@ -43,7 +43,9 @@ La réponse tient en un mot : **SCRAPING** !
 
 **Scraping 2** : Chanson par chanson, grâce à une simple requête Google ("*titre* *interprète* paroles") récupération des paroles si disponibles sur un des deux sites configurés pour le scraping (https://www.paroles-musique.com/ / https://www.paroles.net/)
 
-*Nécessitant environ une quinzaine de secondes par requête, ce processus s'est étalé sur plusieurs jours ! (15 sec * 3600 titres = **15 heures** !)*
+*Nécessitant environ une quinzaine de secondes par requête, ce processus s'est étalé sur plusieurs jours ! 
+
+(15 sec * 3600 titres = **15 heures** !)*
 
 ---
 
