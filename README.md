@@ -22,6 +22,8 @@ Ensuite, cliquez sur le bouton *JOUER* pour lancer la partie!
 
 Vous n'avez plus qu'à trouver le **titre** d'une chanson comprennant le mot donné dans les paroles, ainsi que son **interprète**!
 
+>Attention! Le programme prend en compte l'orthographe, évitez les fautes de frappe !
+
 Validez votre réponse avec le bouton ou la touche *Entrée*
 
 ---
