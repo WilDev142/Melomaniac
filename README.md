@@ -1,5 +1,5 @@
 # **Melomaniac**
-**Melomaniac** est un jeu très simple d'utilisation permettant de tester votre culture musicale ! Le principe est très simple, trouvez une chanson dont les paroles comprenne t un certain mot pour engranger le maximum de points !
+**Melomaniac** est un jeu très simple d'utilisation permettant de tester votre culture musicale ! Le principe est très simple, trouvez une chanson dont les paroles comprennent un certain mot pour engranger le maximum de points !
 
 ## Installation
 Pour jouer à Melomaniac, téléchargez le dossier complet du jeu
