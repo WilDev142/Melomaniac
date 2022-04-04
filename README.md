@@ -7,6 +7,8 @@ Pour jouer à Melomaniac, téléchargez le dossier complet du jeu
 Un unique module externe est nécessaire : **pygame**
 >pip install pygame
 
+*Si vous rencontrez des difficultés à installer pygame : https://inventwithpython.com/blog/2021/01/11/a-quick-pip-guide-how-to-install-python-modules/*
+
 ---
 
 Vous n'avez plus qu'à ouvrir le jeu et profiter de la partie !
