@@ -9,7 +9,7 @@ from Modules.text import Text
 from Modules.song import Song
 
 # Add path to Modules to enable Song objects to be launched 
-sys.path.append('C:/Users/lucas/Documents/Programmation/Python/Melomaniac/Modules')
+sys.path.append(f'{os.getcwd()}/Modules')
 
 
 
