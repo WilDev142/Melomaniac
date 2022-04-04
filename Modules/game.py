@@ -5,6 +5,7 @@ import random
 import time
 import sys
 import unicodedata
+import os
 from Modules.text import Text
 from Modules.song import Song
 
